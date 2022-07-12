@@ -1,0 +1,51 @@
+students{ 
+    background-color: pink;
+    margin-left: 500px;
+    padding: 50px;
+  
+}
+student{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: darkred;
+    padding: 20px;
+
+}
+usn{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: black;
+    
+}
+email{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: maroon;
+}
+college{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: darkgreen;
+}
+name{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: darkblue;
+}
+year{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: purple;
+}
+branch{
+    display: block;
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(58, 9, 58);
+}

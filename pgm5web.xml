@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="pro5.css"?>
+<students>
+<student>
+<usn>USN:4VV19CS001</usn><br/>
+<name>Name:Abc</name><br/>
+<college>College:Vidyavardhaka College Of Engineering</college><br/>
+<branch>Programme:Computer Science</branch><br/>
+<year>Year of joining:2019</year><br/>
+<email>E-mail:abc@gmail.com</email><br/>
+</student>
+<student>
+<usn>USN:4VV19CS002</usn><br/>
+<name>Name:Def</name><br/>
+<college>College:Vidyavardhaka College Of Engineering</college><br/>
+<branch>Programme:Computer Science</branch><br/>
+<year>Year of joining:2019</year><br/>
+<email>E-mail:def@gmail.com</email><br/>
+</student>
+<student>
+<usn>USN:4VV19CS003</usn><br/>
+<name>Name:Ghi</name><br/>
+<college>College:Vidyavardhaka College Of Engineering</college><br/>
+<branch>Programme:Computer Science</branch><br/>
+<year>Year of joining:2019</year><br/>
+<email>E-mail:ghi@gmail.com</email><br/>
+</student>
+
+</students>
